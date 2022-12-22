@@ -1,1 +1,2 @@
-# high-frequency-pcb
+# High Frequency PCB
+It offers a frequency range of 500MHz - 2GHz, making it ideally suited for high-speed designs, as well as radio frequency (RF), microwave and mobile applications. [High frequency pcb](https://www.camtechcircuits.com/products-2308) materials may use a certain set of copper foil materials. These may be rolled-annealed copper or low-profile rough copper that is intended to provide the lowest possible losses.
